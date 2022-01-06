@@ -4,9 +4,24 @@ This small project is to translate Brian 1 code from Paper "Unsupervised learnin
 
 
 ## Prerequisite
-1. Brian 2 
-2. MNIST datasets, which can be downloaded from http://yann.lecun.com/exdb/mnist/. 
-   * The data set includes four gz files. Extract them after you downloaded them.
+1. Install the Conda enviroment as:
+
+```bash
+$ conda update conda
+$ conda env create -f environment.yml
+```
+
+Activate the environment with
+
+```bash
+$ source activate DiehlCook
+```
+
+2. MNIST datasets, which can be downloaded as:
+
+```bash
+$ source wget_MNIST.sh
+```
 
 ## Testing with pretrained weights:
 

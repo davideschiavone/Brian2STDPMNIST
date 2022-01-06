@@ -1,0 +1,12 @@
+name: DiehlCook
+channels:
+  - brian-team
+  - defaults
+dependencies:
+  - brian2=2.1.2
+  - brian2tools=0.2.1.1
+  - matplotlib=2.2.2
+  - numpy=1.13.3
+  - python=3.6.5
+
+
