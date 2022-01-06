@@ -1,6 +1,7 @@
 # Brian 2 version source code for paper "Unsupervised Learning of Digit recognition using STDP"
 
-This small project is to translate Brian 1 code from Paper "Unsupervised learning of digit recognition using spike-timing-dependent plasticity" written by PU Diehl to Brian 2 version. 
+This small project is to translate Brian 1 code from Paper 
+[Unsupervised learning of digit recognition using spike-timing-dependent plasticity](https://www.frontiersin.org/articles/10.3389/fncom.2015.00099/full) written by PU Diehl to Brian 2 version. 
 
 
 ## Prerequisite
